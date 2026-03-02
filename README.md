@@ -9,7 +9,7 @@
 
 <!-- Backend -->
 <h4 style="margin-left: 20px">Backend</h4>
-<img style="margin-left: 20px" src="https://skillicons.dev/icons?i=nodejs,express,springboot,graphql,fastapi" />
+<img style="margin-left: 20px" src="https://skillicons.dev/icons?i=nodejs,express,spring,graphql,fastapi" />
 
 <!-- Database -->
 <h4 style="margin-left: 20px">Databases</h4>
